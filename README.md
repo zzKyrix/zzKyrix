@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ege+G%C3%BCder+(Kyrix)+%F0%9F%91%8B;Computer+Engineering+Student;Learning+something+new+every+day;Future+game+dev+%26+software+engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ege+G%C3%BCder+(Kyrix)+%F0%9F%91%8B;Computer+Engineering+Student;Learning+something+new+every+week;Future+game+dev+%26+software+engineer" alt="Typing SVG" />
 
 <br>
 
@@ -41,6 +41,7 @@ I'm a first-year **Computer Engineering** student at **Sivas Cumhuriyet Universi
 ![C++](https://img.shields.io/badge/C++-Basics-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-Basics-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Planned-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Tools & IDEs:**
 
@@ -55,10 +56,15 @@ I'm a first-year **Computer Engineering** student at **Sivas Cumhuriyet Universi
 
 - 🧠 Data Structures & Algorithms
 - ☕ Object-Oriented Programming with Java
-- 🎓 Udemy courses:
-  - <!-- Course name 1 -->
-  - <!-- Course name 2 -->
-  - <!-- Course name 3 -->
+- 🎓 **Udemy courses in progress:**
+  - Python 2026: 100 Günlük Programcılık Kampı (Python)
+  - (100+ Saat) Aranan Programcı Olma Kampı (Python, Java, C#)
+
+### 📥 Course Queue
+- C# Başlangıç ve İleri Düzey
+- Complete C# Masterclass
+- Learn Python Programming Masterclass
+- Deep Learning ve Python: İleri Seviye Derin Öğrenme
 
 ---
 
@@ -86,23 +92,9 @@ I'm a first-year **Computer Engineering** student at **Sivas Cumhuriyet Universi
 | 3 | Object-oriented programming | 🟡 In progress |
 | 4 | Git & GitHub workflow | 🟡 In progress |
 | 5 | Web basics (HTML, CSS, JavaScript) | ⚪ Planned |
-| 6 | Game development basics (Unity or Godot) | ⚪ Planned |
+| 6 | C# and game development basics (Unity or Godot) | ⚪ Planned |
 | 7 | First small game and personal website | ⚪ Planned |
 | 8 | AI integration basics with Python | ⚪ Planned |
-
----
-
-## 🔥 100 Days of Code
-
-> Started on: **DD/MM/2026** (put your start date here)
-
-| Day | Date | What I did |
-|---|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-
-*Updated regularly. Small steps count.*
 
 ---
 
@@ -141,8 +133,7 @@ I'm a first-year **Computer Engineering** student at **Sivas Cumhuriyet Universi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ege-guder/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egeguder.478@gmail.com)
-<!-- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/USERNAME) -->
-<!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/USER_ID) -->
+![Discord](https://img.shields.io/badge/Discord-kyrix__x-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-SITE) -->
 
 <div align="center">
