@@ -119,11 +119,12 @@ I'm a first-year **Computer Engineering** student at **Sivas Cumhuriyet Universi
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=zzKyrix&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Ege's%20GitHub%20Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzKyrix&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=zzKyrix&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zzKyrix&theme=tokyo-night&hide_border=true" />
+<!-- Add this after your first project is published:
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzKyrix&layout=compact&theme=tokyonight&hide_border=true" />
+-->
 
 </div>
 
